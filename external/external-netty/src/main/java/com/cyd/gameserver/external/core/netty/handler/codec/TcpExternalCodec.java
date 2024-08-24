@@ -60,7 +60,7 @@ public class TcpExternalCodec extends MessageToMessageCodec<ByteBuf, ExternalMes
                 buffer.readBytes(msgBytes);
 
                 ExternalMessage message = DataCodecKit.decode(msgBytes, ExternalMessage.class);
-                //解析出消息对象，继续往下面的handler传递
+                //解析出消息对象，继续往下面的handler传递.
                 out.add(message);
             } else {
                 return;
