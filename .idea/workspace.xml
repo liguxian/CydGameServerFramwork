@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d9e52a1-66bf-4310-88bd-0e05a23b3edd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../java/maven/apache-maven-3.9.1" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jeoUmiYBIjDxfoDAesCyFvH4Mx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/project/gameserver/cydserver",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "3489c1c436d37f50a51e7768877e5d7e"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\gameserver\myserver\common\common-core\src\main\java\com\cyd\gameserver\action\skeleton" />
+      <recent name="D:\project\gameserver\myserver\widget\light-log\src\main\resources\sofa-common-tools\logback" />
+      <recent name="D:\project\gameserver\myserver\widget\light-log\src\main\resources\sofa-common-tools\log4j2" />
+      <recent name="D:\project\gameserver\myserver\widget\light-log\src\main\resources\sofa-common-tools\log4j" />
+      <recent name="D:\project\gameserver\myserver\widget\light-log\src\main\java\com\cyd\gameserver\common\log" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\gameserver\myserver\common" />
+      <recent name="D:\project\gameserver\myserver\external\external-netty\src\main\resources\META-INF\services" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cyd.gameserver.client.proto" />
+      <recent name="com.cyd.gameserver.external.core.netty" />
+      <recent name="com.cyd.gameserver.test.external" />
+      <recent name="com.cyd.gameserver.test.logic.battle.proto" />
+      <recent name="com.cyd.gameserver.common.kit" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TcpExternalCodec">
+    <configuration name="BrokerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyd.gameserver.test.BrokerApplication" />
+      <module name="broker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyd.gameserver.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpClientStartup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyd.gameserver.client.join.TcpClientStartup" />
+      <module name="light-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyd.gameserver.client.join.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpExternalCodec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyd.gameserver.external.core.netty.handler.codec.TcpExternalCodec" />
+      <module name="external-netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyd.gameserver.external.core.netty.handler.codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.cyd.gameserver.test.external.ExternalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyd.gameserver.test.external.ExternalApplication" />
+      <module name="external" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyd.gameserver.test.external.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BattleLogicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="battle" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyd.gameserver.test.logic.battle.BattleLogicApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyd.gameserver.test.logic.battle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TcpClientStartup" />
+        <item itemvalue="Application.TcpExternalCodec" />
+        <item itemvalue="Application.com.cyd.gameserver.test.external.ExternalApplication" />
+        <item itemvalue="Spring Boot.BattleLogicApplication" />
+        <item itemvalue="Application.BrokerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d9e52a1-66bf-4310-88bd-0e05a23b3edd" name="Changes" comment="" />
+      <created>1721756923469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721756923469</updated>
+      <workItem from="1721756924741" duration="13800000" />
+      <workItem from="1721813467358" duration="1195000" />
+      <workItem from="1721925192549" duration="10934000" />
+      <workItem from="1721982032774" duration="35660000" />
+      <workItem from="1722072029210" duration="22705000" />
+      <workItem from="1722156558249" duration="10099000" />
+      <workItem from="1722183458107" duration="8790000" />
+      <workItem from="1722260057397" duration="7876000" />
+      <workItem from="1722323887001" duration="26088000" />
+      <workItem from="1722448882322" duration="11117000" />
+      <workItem from="1722501235075" duration="24602000" />
+      <workItem from="1722628312752" duration="12080000" />
+      <workItem from="1723659019846" duration="10061000" />
+      <workItem from="1723714689494" duration="20000" />
+      <workItem from="1723803394794" duration="14708000" />
+      <workItem from="1723861973426" duration="5168000" />
+      <workItem from="1723975580648" duration="23007000" />
+      <workItem from="1724020479482" duration="648000" />
+      <workItem from="1724031085158" duration="20286000" />
+      <workItem from="1724071780995" duration="26487000" />
+      <workItem from="1724105959736" duration="20113000" />
+      <workItem from="1724172465053" duration="16161000" />
+      <workItem from="1724197552464" duration="4043000" />
+      <workItem from="1724343953173" duration="9601000" />
+      <workItem from="1724429332645" duration="2336000" />
+      <workItem from="1724485373928" duration="1995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

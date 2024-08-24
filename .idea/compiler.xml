@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="battle" />
+        <module name="light-log" />
+        <module name="external" />
+        <module name="bolt-client" />
+        <module name="bolt-core" />
+        <module name="external-netty" />
+        <module name="external-core" />
+        <module name="common-kit" />
+        <module name="broker" />
+        <module name="bolt-broker-server" />
+        <module name="light-client" />
+        <module name="common-core" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="battle" options="-parameters" />
+    </option>
+  </component>
+</project>
